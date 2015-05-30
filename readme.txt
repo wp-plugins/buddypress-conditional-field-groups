@@ -22,7 +22,8 @@ This is a simple plugin used to hide XProfile Field groups from different user t
 2. Activate BuddyPress Conditional Field Groups through the 'Plugins' menu in WordPress.
 
 == Screenshots ==
-
+1. Select the checkboxes to hide the BuddyPress field groups with the corresponding user roles.
+2. Field groups that are checked will not be shown for the corresponding user role on the front end.
 
 == Changelog ==
 
