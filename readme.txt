@@ -21,9 +21,6 @@ This is a simple plugin used to hide XProfile Field groups from different user t
 1. Upload the entire `/buddypress-conditional-field-groups` directory to the `/wp-content/plugins/` directory.
 2. Activate BuddyPress Conditional Field Groups through the 'Plugins' menu in WordPress.
 
-== Frequently Asked Questions ==
-
-
 == Screenshots ==
 
 
