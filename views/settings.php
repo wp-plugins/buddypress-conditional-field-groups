@@ -69,7 +69,7 @@ foreach( $groups as $id => $group ) {
 </style>
 
 <div class="wrap">
-	<h2>BuddPress Conditional Profile Groups</h2>
+	<h2>BuddyPress Conditional Profile Groups</h2>
 
 	<p>Check the boxes below to hide the BuddyPress Profile Group for the corresponding user role.</p>
 
